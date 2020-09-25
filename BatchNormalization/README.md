@@ -13,3 +13,6 @@ Batch Normalization layer, which is frequently used in artificial neural network
 <a href="https://www.codecogs.com/eqnedit.php?latex=y_{i}\leftarrow&space;\gamma&space;x\hat{}_{i}&space;&plus;&space;\beta&space;\equiv&space;BN_{\gamma,\beta}&space;\left&space;(&space;x_{i}&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_{i}\leftarrow&space;\gamma&space;x\hat{}_{i}&space;&plus;&space;\beta&space;\equiv&space;BN_{\gamma,\beta}&space;\left&space;(&space;x_{i}&space;\right&space;)" title="y_{i}\leftarrow \gamma x\hat{}_{i} + \beta \equiv BN_{\gamma,\beta} \left ( x_{i} \right )" /></a>
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x\hat{}_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x\hat{}_{i}" title="x\hat{}_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=y_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_{i}" title="y_{i}" /></a> part runs parallel
+
+## How to use ?
+Import the header, cpp, cu and cuh files. Then browse into main.cpp
